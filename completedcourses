@@ -1,0 +1,37 @@
+INTRODUCTION TO R FOR DATA SCIENCE  PURDUE UNIVERSITY
+Description: Work with airline data to learn the fundamentals of the R platform.
+We live in a data-driven world. This course is relevant to learners who are interested in analyzing data that is pervasive across disciplines.
+Have you ever wondered how data-driven decisions are made across airlines? This course will use airline data to demonstrate key concepts involved in the analysis of big data.
+The emphasis of this course is on using the R platform to manage data. No prerequisites are necessary. Beginners in using R are welcome. The course serves are an introduction to the R software and lays the foundation for any learners who would like to begin studying data science and its applications.
+The introductory material here prepares students to take more advanced courses related to data science, such as machine learning and computational statistics.
+
+What topics will you cover?:
+Downloading, installing, and using the R platform, including R studio
+Importing and visualizing data
+Concepts from R, including vectors, functions, data frames, strings, dates, and lists
+Transforming, cleaning, and verifying data
+The suite of apply functions
+Case study of ASA DataExpo 2009 “Airline on-time performance”
+
+What will you achieve?:
+By the end of the course, you will be able to:
+Import data into R and visualize data
+Use vectors and vectorized functions, including some of the apply functions
+Manipulate data into desired formats, including cleaning and verifying data
+Predict business performance
+Make data-driven decisions about your industry
+Perform an import of data into R
+Utilize vectors and vectorized functions, including some of the apply functions
+Utilize basic data structures such as data frames, strings, dates, lists, etc.
+Duration: 4 weeks - 4hrs/week
+
+Who is the course for?
+Learners are expected to download, install, and use the R platform. Prior knowledge or experience with the R software is not necessary.
+
+What software or tools do you need?
+Learners are expected to download, install, and use the R platform. A desktop or laptop computer is also needed to take this course as opposed to a mobile device.
+
+Who will you learn with?: Mark Daniel Ward
+Mark is an Associate Professor, and Undergraduate Chair at Department of Statistics, Purdue University, and Associate Director for the NSF Center for Science of Information.
+
+Completed 12 June 2017
